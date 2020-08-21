@@ -1,0 +1,16 @@
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\TesteE2E.exe
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\TesteE2E.csprojAssemblyReference.cache
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\TesteE2E.AssemblyInfoInputs.cache
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\TesteE2E.AssemblyInfo.cs
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\TesteE2E.deps.json
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\TesteE2E.runtimeconfig.json
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\TesteE2E.runtimeconfig.dev.json
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\TesteE2E.dll
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\TesteE2E.pdb
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\TesteE2E.csproj.CoreCompileInputs.cache
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\TesteE2E.csproj.CopyComplete
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\TesteE2E.dll
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\TesteE2E.pdb
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\TesteE2E.genruntimeconfig.cache

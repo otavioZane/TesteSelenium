@@ -1,0 +1,16 @@
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\FirstTestCase.exe
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\FirstTestCase.deps.json
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\FirstTestCase.runtimeconfig.json
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\FirstTestCase.runtimeconfig.dev.json
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\FirstTestCase.dll
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\FirstTestCase.pdb
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\TestE2E\TesteE2E\TesteE2E\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\FirstTestCase.csprojAssemblyReference.cache
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\FirstTestCase.AssemblyInfoInputs.cache
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\FirstTestCase.AssemblyInfo.cs
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\FirstTestCase.csproj.CopyComplete
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\FirstTestCase.dll
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\FirstTestCase.pdb
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\FirstTestCase.genruntimeconfig.cache
+C:\TestE2E\TesteE2E\TesteE2E\obj\Debug\netcoreapp3.1\FirstTestCase.csproj.CoreCompileInputs.cache
